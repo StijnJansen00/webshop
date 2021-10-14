@@ -1,0 +1,36 @@
+//TO DO:
+
+- Winkelwagen:
+	+ Optioneel invulvak 10 cijfers (Custom referentie)
+	+ Betaling
+
+- Pakbon
+	+ Referentie Nr
+
+- Factuur 
+	+ Referentie Nr
+
+- Offerte
+	+ Product Toevoegen onder producten
+	+ Prijs per product (Aan te passen)
+	+ Totaalprijs (Aan te passen) Voorrang
+	+ Selecteer klant
+		= Bestaat niet? Nieuw acc aanmaken
+
+- User acc
+	+ Overzicht Offertes
+	+ Afkeuren Offerte
+		- Reden afkeuren
+	+ Goedkeuren Offerte
+		- Betalen -> factuur via mail
+
+- Producten
+	+ Inkoop prijs toevoegen!
+
+- Admin
+	+ offerte overzicht
+		- Check offerte einddatum -> ouder dan 14 dagen, nog niet geaccepteerd -> melding
+			- Na 7 dagen nogsteeds geen reactie -> melding
+
+- Email invoervelden
+	+ What you see is what you get -> WYSIWYG

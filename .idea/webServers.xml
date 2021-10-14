@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0a3c2430-185d-4e6c-8e56-e47c8642a818" name="4You">
+        <fileTransfer accessType="SFTP" host="sftp.4youoffice.nl" port="22" sshConfigId="b3d32095-2f2a-4f51-ba9c-610108e48ff3" sshConfig="527201@sftp.4youoffice.nl:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

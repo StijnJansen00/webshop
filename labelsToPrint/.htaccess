@@ -1,0 +1,4 @@
+#RewriteEngine on
+#
+#Deny from all
+#ErrorDocument 403 /404
